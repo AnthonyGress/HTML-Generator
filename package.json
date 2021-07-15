@@ -1,0 +1,15 @@
+{
+  "name": "html-generator",
+  "version": "1.0.0",
+  "description": "makes a basic html5 page",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node main.js"
+  },
+  "author": "techx-guy",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
